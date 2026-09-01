@@ -4,9 +4,5 @@ __pycache__/
 
 data/*.csv
 
-.venv/
-venv/
 .env
-
-models/*.pkl
-models/*.joblib
+.DS_Store
